@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Funnykid7
-- 👀 I’m interested in python programming projects
-- 🌱 I’m currently learning C++
-- 🤝 I’m looking to collaborate on my recent project that i have published 
+- 👀 I’m interested in Raspberry Pi projects
+- 🌱 I’m currently learning Arduino C
+- 🤝 I’m looking to collaborate on my recent project that I have published 
 - 📫 Mail me at itsfunnykidaryan@gmail.com
 
 <!---
