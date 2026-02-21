@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Funnykid7
-- 👀 I’m interested in Raspberry Pi projects
-- 🌱 I’m currently learning Arduino C
-- 🤝 I’m looking to collaborate on my recent project that I have published 
+- 👀 I’m interested in game development, microcontroller projects and everything in between
+- 🌱 I’m currently learning the godot engine
+- 🤝 I’m looking to collaborate on interesting projects other people might have, or improvements to my own
 - 📫 Mail me at itsfunnykidaryan@gmail.com
 
 <!---
