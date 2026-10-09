@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Funnykid7
+- 👋 Hi, I’m @KingSir7
 - 👀 I’m interested in app development, microcontroller projects and everything in between
 - 🌱 I’m currently learning kotlin to build android apps
 - 🤝 I’m looking to collaborate on interesting projects other people might have, or improvements to my own
